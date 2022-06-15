@@ -1,16 +1,23 @@
 h1{
+    text-align: center;
     width: 100%;
     background: rgba(186, 255, 146, 0.473);
     padding: 0.5rem;
 }
 nav{
+    
     padding: 1rem;
     background: white;
+}
+
+#navBar:hover{
+    background: rgb(255, 220, 226);
 }
 html{
     height: 100%;
 }
 body{
+    font-family: monospace;
     color: rgb(61, 52, 110);
     height: 100%;
     width: 100%;
