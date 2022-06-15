@@ -1,3 +1,19 @@
+h1{
+    width: 100%;
+    background: rgba(186, 255, 146, 0.473);
+    padding: 0.5rem;
+}
+nav{
+    padding: 1rem;
+    background: white;
+}
+html{
+    height: 100%;
+}
 body{
-    background: red;
+    color: rgb(61, 52, 110);
+    height: 100%;
+    width: 100%;
+    background-attachment: fixed;
+    background: linear-gradient(0deg, rgb(129, 209, 255), cyan);
 }
