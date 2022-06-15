@@ -30,9 +30,27 @@ h2{
     padding: 0.5rem
 }
 h3{
+    font-size: large;
+    text-align: center;
+    margin: auto;
+    margin-top: 2rem;
     width: 50%;
     background: white;
     padding: 1rem;
+}
+h4{
+    font-size: large;
+    text-align: center;
+    margin: auto;
+    margin-top: 2rem;
+    width: 50%;
+    background: white;
+    padding: 1rem;
+}
+#projects{
+    margin-top: 2rem;
+    padding: 3rem;
+    background: white;
 }
 html{
     height: 100%;
