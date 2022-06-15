@@ -38,6 +38,10 @@ h3{
     background: white;
     padding: 1rem;
 }
+.project-tile{
+    padding: 2rem;
+    background: rgba(113, 255, 184, 0.301)
+}
 h4{
     font-size: large;
     text-align: center;
