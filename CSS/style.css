@@ -26,10 +26,10 @@ a{
     text-decoration: none;
     color: rgb(159, 49, 187);
 }
-h2{
+h3{
     padding: 0.5rem
 }
-h3{
+h4{
     font-size: large;
     text-align: center;
     margin: auto;
@@ -42,7 +42,7 @@ h3{
     padding: 2rem;
     background: rgba(113, 255, 184, 0.301)
 }
-h4{
+h5{
     font-size: large;
     text-align: center;
     margin: auto;
