@@ -5,13 +5,26 @@ h1{
     padding: 0.5rem;
 }
 nav{
-    
-    padding: 1rem;
+    width: 80%;
+    border-radius: 2rem;
     background: white;
 }
-
+#navBar{
+    display: flex;
+}
 #navBar:hover{
     background: rgb(255, 220, 226);
+}
+ul{
+    list-style-type: none;
+    background: rgb(255, 207, 255);
+}
+a{
+    text-decoration: none;
+    color: rgb(159, 49, 187);
+}
+h2{
+    padding: 0.5rem
 }
 html{
     height: 100%;
